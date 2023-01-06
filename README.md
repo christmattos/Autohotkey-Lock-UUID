@@ -1,7 +1,6 @@
 # Autohotkey-Lock-UUID
 [English version:](https://translate.google.com.br/?hl=en-US&sl=pt&tl=en&op=translate)
 
-:trollface:
 
 Portuguese version:
 
